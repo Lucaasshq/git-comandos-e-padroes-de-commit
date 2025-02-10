@@ -14,4 +14,6 @@ git push -u origin master: enviar arquivo preparado para repositorio remoto
 
 git branch: Listar branchs
 
+git checkout -b "Nova-branch":Criar uma Nova branch
+
 git branch -M "nome-da-nova-branch": renomear a branch com o novo nome 
