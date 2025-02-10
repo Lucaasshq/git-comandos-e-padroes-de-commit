@@ -20,4 +20,6 @@ git checkout Nome-da-branch: entrar na branch escolhida
 
 git merge nome-da-branch-do-merge: mesclar a branch main com a ramificação escolhida
 
+git pull:trazer alterações do repositorio remoto para o repositorio do local do computador
+
 git branch -M "nome-da-nova-branch": renomear a branch com o novo nome 
