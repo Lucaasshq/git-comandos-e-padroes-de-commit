@@ -12,4 +12,6 @@ git remote add origin https://github.com/Lucaasshq/git-commands-course.git: prep
 
 git push -u origin master: enviar arquivo preparado para repositorio remoto
 
+git branch: Listar branchs
+
 git branch -M "nome-da-nova-branch": renomear a branch com o novo nome 
