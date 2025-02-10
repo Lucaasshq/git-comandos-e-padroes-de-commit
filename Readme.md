@@ -22,4 +22,6 @@ git merge nome-da-branch-do-merge: mesclar a branch main com a ramificação esc
 
 git pull:trazer alterações do repositorio remoto para o repositorio do local do computador
 
+git clone http://exemplo.git":Clonar repositorio do github
+
 git branch -M "nome-da-nova-branch": renomear a branch com o novo nome 
