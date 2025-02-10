@@ -1,5 +1,7 @@
 Projeto para aprender a usar GIT!
 
+=====COMANDO ESSENCIAIS===== 
+
 git init: iniciar repositorio dentro da pasta
 
 git add <nome-arquivo>: incluir as alterações para commit
