@@ -1,6 +1,6 @@
 
 
-## 👩‍💻 COMANDOS=ESSENCIAIS 
+## 👩‍💻 COMANDOS ESSENCIAIS 
 
 git init: iniciar repositorio dentro da pasta
 
